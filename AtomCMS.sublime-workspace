@@ -1,0 +1,799 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"page",
+				"pageY"
+			],
+			[
+				"mo",
+				"mousePosY"
+			],
+			[
+				"mou",
+				"mousePosX"
+			],
+			[
+				"m",
+				"mousePosX"
+			],
+			[
+				"mouse",
+				"mousemove〔function〕"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"togg",
+				"toggleClass〔function〕"
+			],
+			[
+				"body",
+				"bodyClass"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"remove",
+				"removeClass〔function〕"
+			],
+			[
+				"rem",
+				"removeClass〔function〕"
+			],
+			[
+				"o",
+				"$old〔variable〕"
+			],
+			[
+				"tar",
+				"$targetPath〔variable〕"
+			],
+			[
+				"mysqli_e",
+				"mysqli_error〔function〕"
+			],
+			[
+				"border-r",
+				"border-radius: 〔property〕"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"hi",
+				"height: 〔property〕"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"e",
+				"$ext〔variable〕"
+			],
+			[
+				"ra",
+				"$random〔variable〕"
+			],
+			[
+				"n",
+				"$newname〔variable〕"
+			],
+			[
+				"PATHINFO",
+				"PATHINFO_EXTENSION〔constant〕"
+			],
+			[
+				"_f",
+				"$_FILES〔variable〕"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"conf",
+				"confirmed"
+			],
+			[
+				"btn-d",
+				"btn-default"
+			],
+			[
+				"clas",
+				"class=\"bg-warning"
+			],
+			[
+				"me",
+				"$message〔variable〕"
+			],
+			[
+				"pa",
+				"$password〔variable〕"
+			],
+			[
+				"op",
+				"$opened〔variable〕"
+			],
+			[
+				"li",
+				"$list〔variable〕"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"open",
+				"opened"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"va",
+				"$value2〔variable〕"
+			],
+			[
+				"error",
+				"error_reporting〔function〕"
+			],
+			[
+				"user",
+				"$user_data〔variable〕"
+			],
+			[
+				"data",
+				"data_user〔function〕"
+			],
+			[
+				"selec",
+				"select"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"l",
+				"label"
+			],
+			[
+				"sub",
+				"submitted"
+			],
+			[
+				"name",
+				"name=〔attribute〕"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"b",
+				"$blurb〔variable〕"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"lis",
+				"list-group-item"
+			],
+			[
+				"db",
+				"$dbc〔variable〕"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"dat",
+				"data_user〔function〕"
+			],
+			[
+				"d",
+				"$dbc〔variable〕"
+			],
+			[
+				"navb",
+				"navbar-nav"
+			],
+			[
+				"sess",
+				"session_destroy〔function〕"
+			],
+			[
+				"uns",
+				"unset〔keyword〕"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"ses",
+				"session_start〔function〕"
+			],
+			[
+				"_s",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"get_def",
+				"get_defined_vars〔function〕"
+			],
+			[
+				"de",
+				"$debug〔variable〕"
+			],
+			[
+				"bre",
+				"break-word"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"cl",
+				"click〔function〕"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"pri",
+				"print_r〔function〕"
+			],
+			[
+				"bod",
+				"body_nohtml"
+			],
+			[
+				"nav",
+				"nav_main〔function〕"
+			],
+			[
+				"inclu",
+				"include〔function〕"
+			],
+			[
+				"pag",
+				"$page〔variable〕"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_assoc〔function〕"
+			],
+			[
+				"mysqli",
+				"mysqli_error〔function〕"
+			],
+			[
+				"mys",
+				"mysql_connect〔function〕"
+			],
+			[
+				"my",
+				"mysqli_connect"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fa-",
+				"fa-5x"
+			],
+			[
+				"H",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ma",
+				"major"
+			],
+			[
+				"edu",
+				"education"
+			],
+			[
+				"disp",
+				"displayWork"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"proj",
+				"project"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"j",
+				"job"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"fo",
+				"formattedTitle"
+			],
+			[
+				"forma",
+				"formattedEmployer"
+			],
+			[
+				"form",
+				"formattedName"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/David/Desktop/51/51/ichingchang-page-tagger-dce3fa57cb40/validate.py",
+			"settings":
+			{
+				"buffer_size": 9353,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"HTML: Wrap Selection With Tag"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp)",
+			"Install Package"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/wamp64/www/series/dynamic/AtomCMS"
+	],
+	"file_history":
+	[
+		"/C/Users/David/Desktop/新建文件夹 (2)/7152/a1293b6b-9e46-44e1-a975-489b3302c546.txt",
+		"/C/Users/David/Desktop/新建文件夹 (2)/7152/a1293b6b-9e46-44e1-a975-489b3302c546.tag.json",
+		"/C/Users/David/Desktop/新建文件夹 (2)/7151/d4524032-938d-4c7c-8b20-d7a24a39f711.txt",
+		"/C/Users/David/Desktop/新建文件夹 (2)/7151/d4524032-938d-4c7c-8b20-d7a24a39f711.tag.json",
+		"/C/Users/David/Desktop/新建文件夹 (2)/7150/7eb2568a-dc3a-4aaf-bfcb-97071798a94a.tag.json",
+		"/C/Users/David/Desktop/51/51/webpages/5217/996b2989-5d51-4bd4-9b36-f9760956f8c6.tag.json",
+		"/C/Users/David/Desktop/51/51/webpages/5206/2285a4ce-1cf8-45e9-ad0f-7aaec9ac3d29.tag.json",
+		"/C/Users/David/Desktop/51/51/webpages/5213/d1c1bdc4-eed3-4708-abc2-b45329cc7f75.tag.json",
+		"/C/Users/David/Desktop/新建文件夹 (2)/7150/7eb2568a-dc3a-4aaf-bfcb-97071798a94a.txt",
+		"/C/Users/David/Desktop/51/51/tagged_example/6/9c23ae91-c7fc-46a4-bbfd-d1cfb7d0a059.tag.json",
+		"/C/Users/David/Desktop/51/51/tagged_example/3/703a2c05-7a8b-453f-bc9e-10a8e6dfe91a.tag.json",
+		"/C/Users/David/Desktop/51/51/tagged_example/17/182848a0-5ba2-437f-9488-d4ea699d8231.tag.json",
+		"/C/Users/David/Desktop/51/51/tagged_example/16/89d47c13-a300-434b-b486-72ad3ee8eb44.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7165/97acf23a-a199-40f4-80e0-8b7b57adfb46.txt",
+		"/C/Users/David/Desktop/64/64/webpages/7165/97acf23a-a199-40f4-80e0-8b7b57adfb46.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7164/3a2df756-2b13-4828-be2b-57ebbac2d70f.txt",
+		"/C/Users/David/Desktop/64/64/webpages/7164/3a2df756-2b13-4828-be2b-57ebbac2d70f.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7163/0810785f-f438-4ded-992f-0a884c9bc0da.txt",
+		"/C/Users/David/Desktop/64/64/webpages/7163/0810785f-f438-4ded-992f-0a884c9bc0da.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7162/3d62efce-a850-496e-bb20-34f998010ab5.txt",
+		"/C/Users/David/Desktop/64/64/webpages/7162/3d62efce-a850-496e-bb20-34f998010ab5.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7161/84cb5b9a-503b-41f6-803d-9de53ea418c2.txt",
+		"/C/Users/David/Desktop/64/64/webpages/7161/84cb5b9a-503b-41f6-803d-9de53ea418c2.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7160/50a8edcd-e9b3-4917-b7f4-dc4021ce8a3a.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7159/fcbbdb0a-bb06-4c48-b9c4-2c9a5b828042.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7159/fcbbdb0a-bb06-4c48-b9c4-2c9a5b828042.txt",
+		"/C/Users/David/Desktop/64/64/webpages/7160/50a8edcd-e9b3-4917-b7f4-dc4021ce8a3a.txt",
+		"/C/Users/David/Desktop/64/64/webpages/7158/d12888ee-86b9-479c-8735-3aad2e117f3c.txt",
+		"/C/Users/David/Desktop/64/64/webpages/7158/d12888ee-86b9-479c-8735-3aad2e117f3c.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7157/4e9fd3a0-5dcc-4f4c-98a6-249eb16ce1b9.txt",
+		"/C/Users/David/Desktop/64/64/webpages/7156/600e2f9c-353c-47eb-8b26-17389d8edfcb.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7157/4e9fd3a0-5dcc-4f4c-98a6-249eb16ce1b9.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7156/600e2f9c-353c-47eb-8b26-17389d8edfcb.txt",
+		"/C/Users/David/Desktop/64/64/webpages/7155/fffa6fe5-d237-45ab-bc7e-2974841a14e9.txt",
+		"/C/Users/David/Desktop/64/64/webpages/7155/fffa6fe5-d237-45ab-bc7e-2974841a14e9.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7154/5ce7be02-bece-4c59-b031-c381e15fd74a.txt",
+		"/C/Users/David/Desktop/64/64/webpages/7154/5ce7be02-bece-4c59-b031-c381e15fd74a.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7153/cc07f220-23a7-4a91-9b61-22680d21c280.txt",
+		"/C/Users/David/Desktop/64/64/webpages/7153/cc07f220-23a7-4a91-9b61-22680d21c280.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7152/a1293b6b-9e46-44e1-a975-489b3302c546.txt",
+		"/C/Users/David/Desktop/64/64/webpages/7152/a1293b6b-9e46-44e1-a975-489b3302c546.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7151/d4524032-938d-4c7c-8b20-d7a24a39f711.tag.json",
+		"/C/Users/David/Desktop/64/64/webpages/7150/7eb2568a-dc3a-4aaf-bfcb-97071798a94a.txt",
+		"/C/Users/David/Desktop/64/64/webpages/7150/7eb2568a-dc3a-4aaf-bfcb-97071798a94a.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/215/8951b00f-7a73-4724-b405-2e13feb8d1e8.txt",
+		"/C/Users/David/Desktop/1/1/webpages/215/8951b00f-7a73-4724-b405-2e13feb8d1e8.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/214/962f345b-fd99-4713-8bad-5af9a63c3d4d.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/213/d1c1bdc4-eed3-4708-abc2-b45329cc7f75.txt",
+		"/C/Users/David/Desktop/1/1/webpages/213/d1c1bdc4-eed3-4708-abc2-b45329cc7f75.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/212/74f77dfa-9563-4afe-bff5-37feef20d5da.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/212/74f77dfa-9563-4afe-bff5-37feef20d5da.txt",
+		"/C/Users/David/Desktop/1/1/webpages/211/483365c8-13ce-44af-afcb-e329203ad325.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/210/c5fce6cf-9251-4d30-8deb-e6f5a17e4832.txt",
+		"/C/Users/David/Desktop/1/1/webpages/210/c5fce6cf-9251-4d30-8deb-e6f5a17e4832.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/209/57f104f8-38d4-4a09-8ff5-23449ed9698e.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/207/a3b54002-c860-4427-8b34-207898fce3a6.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/208/f1898a60-a900-4681-831b-74a8c382b334.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/207/a3b54002-c860-4427-8b34-207898fce3a6.txt",
+		"/C/Users/David/Desktop/1/1/webpages/206/2285a4ce-1cf8-45e9-ad0f-7aaec9ac3d29.txt",
+		"/C/Users/David/Desktop/1/1/webpages/206/2285a4ce-1cf8-45e9-ad0f-7aaec9ac3d29.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/205/569fd82d-f577-4554-990a-e65b10f441f8.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/203/e39018e2-e04a-411f-8ff6-2030eb388bc3.txt",
+		"/C/Users/David/Desktop/51/51/webpages/5206/tag_helper.py",
+		"/C/Users/David/Desktop/1/1/webpages/204/c79a347f-26ff-495a-9f4d-677091844b7b.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/204/c79a347f-26ff-495a-9f4d-677091844b7b.txt",
+		"/C/Users/David/Desktop/1/1/webpages/203/e39018e2-e04a-411f-8ff6-2030eb388bc3.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/202/6256fd91-c7d3-4b93-b381-95736caa3dd2.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/201/aa3d4b01-a915-4e49-8305-0e5d3ad83279.tag.json",
+		"/C/Users/David/Desktop/1/1/webpages/202/6256fd91-c7d3-4b93-b381-95736caa3dd2.txt",
+		"/C/Users/David/Desktop/1/1/webpages/201/aa3d4b01-a915-4e49-8305-0e5d3ad83279.txt",
+		"/C/Users/David/Desktop/1/1/webpages/200/3ca6d50b-e261-4dbb-bc1d-554139af969d.tag.json",
+		"/C/Users/David/Desktop/breaktime.py",
+		"/D/wamp64/www/Chapter 6/06.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 6/06.js",
+		"/C/Users/David/Desktop/04_25/NimPlayer.java",
+		"/C/Users/David/Desktop/04_25/Nimsys.java",
+		"/C/Users/David/Desktop/04_25/NimGame.java",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 5/listings/5.7.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 5/listings/5.9.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 5/listings/5.10.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 5/listings/5.12.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 5/05.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/listings/4.17.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/listings/4.18.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/listings/4.19.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/listings/4.25.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/listings/4.26.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/04.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/listings/4.24.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/listings/4.11.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/listings/4.13.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/listings/4.15.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/listings/4.16.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/listings/4.8.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/listings/4.9.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/listings/4.10.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/listings/4.3.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 4/listings/4.5.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 3/listings/3.26.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 3/complete.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 3/03.js",
+		"/G/GoogleDrive/Web Develop/Code/Chapter 3/listings/3.15.js",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/config/js.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/uploads.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/ajax/avatar.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/views/users.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/config/css.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/index.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/ajax/pages.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/views/pages.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/css/dropzone.css",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/widgets/debug.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/config/queries.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/views/setting.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/config/setup.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/functions/data.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/views/dashboard.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/template/navigation.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/template/header.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/template/footer.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/functions/sandbox.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/template/navigation.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/config/setup.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/functions/template.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/.htaccess",
+		"/D/wamp64/www/series/dynamic/AtomCMS/index.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/widgets/debug.php",
+		"/D/wamp64/www/series/dynamic/AtomCMS/admin/functions/sandbox.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@",
+			"Victor",
+			"@",
+			"1973",
+			"The gas",
+			"each",
+			"content.css",
+			"last",
+			"',",
+			"$page_list",
+			"page_list",
+			"WHERE",
+			"where",
+			"pageid",
+			"container",
+			"\">\n",
+			"handleFileSelect",
+			"bqa",
+			"createMapMarker",
+			"HTMLheaderRole",
+			"initializeMap",
+			"project",
+			"row",
+			"col-md-6",
+			".flex-item",
+			"flex-item",
+			"h1",
+			"resumeBuilder"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$list",
+			"list"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/David/Desktop/51/51/ichingchang-page-tagger-dce3fa57cb40/validate.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "AtomCMS.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
